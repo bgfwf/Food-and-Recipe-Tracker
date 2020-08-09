@@ -1,0 +1,4 @@
+toast 1 bread 1 earthbalance
+chili 2 frozenPeppers 1 kidneyBeans 1 chiliPowder
+burritos 1 guacamole 1 blackbeans 1 tortilla 1 salsa
+ChickpeaStew 4 celery 1 chickpeas 4 carrots
