@@ -1,8 +1,4 @@
 // Inventory tracker
-// IMPLEMENT OPTION VI.
-// GUI?
-// No need to enter both file names as args each run
-// Show which ingredients are missing if cannot make recipe
 
 import java.io.*;
 import java.util.*;
